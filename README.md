@@ -1,7 +1,5 @@
 # literate-disco
+Khoi tao git
 ```
-echo "haha"
+git init
 ```
-
-echo "huhu"
-[comment]: # (day la comment)
